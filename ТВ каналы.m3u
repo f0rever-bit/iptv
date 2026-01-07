@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="https://ottiptv.ru/epg.xml.gz,http://ottg.tv/epg.xml.gz,http://epg.it999.ru/epg.xml.gz,http://play.kinoshka.tv/epg/epg.xml.gz"
+#EXTINF:-1,FreeДом
+http://cdnsatbil.com/6550/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,1+1 Международный
+http://cdnsatbil.com/0195/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,1+1
+http://cdnsatbil.com/0151/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,Оце
+http://cdnsatbil.com/5538/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,Первый Западный (Львов)
+http://cdnsatbil.com/6751/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,Первый Городской (Кривой Рог)
+http://cdnsatbil.com/6748/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,Первый Городской (Одесса)
+http://cdnsatbil.com/6749/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,NEWS 24
+http://cdnsatbil.com/5573/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,СТБ
+http://cdnsatbil.com/0160/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,Рада
+http://cdnsatbil.com/0186/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,ПравдаТУТ
+http://cdnsatbil.com/0178/video.m3u8?token=4g82aDoaVr
+#EXTINF:-1,Еспресо TV
+http://cdnsatbil.com/0154/video.m3u8?token=4g82aDoaVr
