@@ -1,26 +1,189 @@
-#EXTM3U url-tvg="https://ottiptv.ru/epg.xml.gz,http://ottg.tv/epg.xml.gz,http://epg.it999.ru/epg.xml.gz,http://play.kinoshka.tv/epg/epg.xml.gz"
-#EXTINF:-1,FreeДом
-http://cdnsatbil.com/6550/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,1+1 Международный
-http://cdnsatbil.com/0195/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,1+1
-http://cdnsatbil.com/0151/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,Оце
-http://cdnsatbil.com/5538/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,Первый Западный (Львов)
-http://cdnsatbil.com/6751/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,Первый Городской (Кривой Рог)
-http://cdnsatbil.com/6748/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,Первый Городской (Одесса)
-http://cdnsatbil.com/6749/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,NEWS 24
-http://cdnsatbil.com/5573/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,СТБ
-http://cdnsatbil.com/0160/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,Рада
-http://cdnsatbil.com/0186/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,ПравдаТУТ
-http://cdnsatbil.com/0178/video.m3u8?token=4g82aDoaVr
-#EXTINF:-1,Еспресо TV
-http://cdnsatbil.com/0154/video.m3u8?token=4g82aDoaVr
+
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Интер HD
+
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/174.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Интер+ HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/345.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ICTV HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/158.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Новый канал HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/157.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",СТБ HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/156.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/172.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 International
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/105.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",1+1 Україна HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/219.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",2+2 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/173.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К1 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/270.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",К2 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/324.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ТЕТ HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/338.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ОЦЕ HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/329.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",НТН HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/326.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Кус-кус HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/195.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",36.6 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/331.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",FILMUADRAMA HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/273.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Ukraine 1 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/98.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Ukraine 2 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/99.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Культура HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/435.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Київ HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/439.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Крим HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/436.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA: Перший HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/437.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",NLO TV 2 HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/115.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Zoom HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/327.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Квартал ТВ
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/321.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",UA TV HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/63.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Bolt HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/73.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",ПлюсПлюс HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/339.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Бiгудi
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/340.m3u8
+
+#EXTINF:-1 group-title="Национальные" tvg-rec="7" timeshift="7",Уніан HD
+
+#EXTGRP:Национальные
+
+http://myott.top/stream/D18A159NA2/341.m3u8
 
